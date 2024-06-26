@@ -1,0 +1,197 @@
+.dy1{
+     @media screen {
+        max-width: 600px;
+
+    width: 200px;
+    height: 200px;
+    background: url(https://itorrents-igruha.org/uploads/posts/2022-09/1664318507_cover.jpg);
+    box-shadow: 14px  14px  100px blanchedalmond ;
+    margin-top: 200px;
+    margin-left: 160px;
+    transition: 0.5s;
+    display: flex;
+    }
+}
+
+
+.dy1:hover{
+    display: flex;
+    width: 13%;
+    height: 330px;
+    box-shadow: 14px  14px  100px blanchedalmond ;
+}
+
+.text{
+    display: flex;
+    margin-left: 160px;
+    font-size: 30px;
+}
+.dy2{
+    @media screen {
+        max-width: 600px;
+    
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background: url(https://itorrents-igruha.org/uploads/posts/2024-02/1708611241_library_600x900_2x.jpg);
+    box-shadow: 14px 14px  100px blanchedalmond;
+    margin-top: -230px;
+    margin-left: 750px;
+    transition: 0.5s;
+    }
+} 
+.dy2:hover{
+    width: 13%;
+    height: 300px;
+    box-shadow: 14px  14px  100px blanchedalmond ;
+
+}
+.dy1text{
+    display: flex;
+    margin-left: 750px;
+    margin-top: 230x;
+    font-size: 20px;
+}
+.dy3{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background: url(https://itorrents-igruha.org/uploads/posts/2017-12/1513021822__cover.jpg);
+    box-shadow: 14px 14px 100px burlywood;
+    margin-top: -220px;
+    margin-left: 1370px;
+    transition: 0.5s;
+}
+}
+
+.dy3:hover{
+    height: 270px;
+}
+.dy3text{
+    @media screen {
+        max-width: 600px;
+    display:flex;
+    margin-left:1370px;
+    font-size: 20px;
+    }
+}
+
+.dy1up{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    margin-left: 160px;
+    margin-top: 60px;
+    }
+}
+.agr{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    font-size: 30px;
+    color: greenyellow;
+    margin-top: -120px;
+    margin-left: 160px;
+    }
+}
+.agr1{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    font-size: 30px;
+    color: greenyellow;
+    margin-top: -50px;
+    margin-left: 750px;
+    }
+}
+.bad3{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    font-size: 30px;
+    color: red;
+    margin-left: 1370px;
+    margin-top: -30px;
+    }
+    
+}
+.bad4{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    margin-top: 25px;
+    margin-left: 1370px;
+    }
+}
+.dy523{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    margin-top: -80px;
+    margin-left: 750px;
+    }
+}
+
+.teqsti{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+   margin-top: -860px;
+   margin-left: 330px;
+   font-size: 20px;
+    }
+}
+.mail{
+    @media screen {
+        max-width: 600px;
+   display: flex;
+   margin-top:  -50px;
+   margin-left: 300px;
+    }
+}
+.tiktok{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    margin-top:  -35px;
+    margin-left: 160px;
+    }
+}
+.tiktex{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    margin: -32px;
+    margin-left: 200px;
+    font-size: 22px;
+    }
+}
+.insta{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    margin: -25px;
+    margin-left: 10px;
+    }
+}
+.intex{
+    @media screen {
+        max-width: 600px;
+    display: flex;
+    margin: -31px;
+    margin-left: 50px;
+    font-size: 20px;
+    }
+}
+.icon{
+    @media screen {
+        max-width: 600px;
+
+    display: flex;
+    margin-top: 50px;
+    }
+}
